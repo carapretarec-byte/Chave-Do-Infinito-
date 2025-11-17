@@ -89,7 +89,7 @@ const Loja: React.FC = () => {
           <OtherStoreItem key={index} item={item} />
         ))}
       </div>
-    </section>
+    </Section>
   );
 };
 
